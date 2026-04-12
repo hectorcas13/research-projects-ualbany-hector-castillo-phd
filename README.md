@@ -38,6 +38,10 @@ The original real-estate dataset is larger than GitHub's standard single-file up
 
 - `usa-house-price-regression/data/USA Real Estate Dataset.csv`
 
+It can also be downloaded from Dropbox:
+
+- `https://www.dropbox.com/scl/fi/4ixfif7buj5xt2bvlcoen/USA-Real-Estate-Dataset.csv?rlkey=e2v2eekghwjr42ixh0jxobmbz&st=imx6jme5&dl=1`
+
 Otherwise, it falls back to the included sample dataset.
 
 ## Repository Structure

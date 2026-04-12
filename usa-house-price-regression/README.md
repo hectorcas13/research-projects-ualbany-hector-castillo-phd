@@ -16,7 +16,11 @@ Optional full dataset:
 
 - `data/USA Real Estate Dataset.csv`
 
-The notebook automatically uses the full dataset if it is present in the `data/` folder. Otherwise, it runs with the sample file included in this repository.
+Dropbox source for the full dataset:
+
+- `https://www.dropbox.com/scl/fi/4ixfif7buj5xt2bvlcoen/USA-Real-Estate-Dataset.csv?rlkey=e2v2eekghwjr42ixh0jxobmbz&st=imx6jme5&dl=1`
+
+The notebook automatically uses the full dataset if it is present in the `data/` folder. If it is not found locally, the notebook attempts to download the file from the Dropbox link above. If that also fails, it runs with the sample file included in this repository.
 
 ## Main Topics Covered
 
@@ -35,4 +39,4 @@ The notebook automatically uses the full dataset if it is present in the `data/`
 
 ## Practical Note
 
-The original real-estate dataset is too large for a standard GitHub upload, so this repository includes a sample for portability and demonstration.
+The original real-estate dataset is too large for a standard GitHub upload, so this repository includes a sample for portability and demonstration while keeping a Dropbox link for the full version.
