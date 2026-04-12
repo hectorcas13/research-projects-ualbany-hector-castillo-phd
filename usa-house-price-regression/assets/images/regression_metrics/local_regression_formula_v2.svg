@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1950" height="280" viewBox="0 0 1950 280">
+  <rect width="1950" height="280" rx="18" ry="18" fill="#F8FBFE" stroke="#D6E4F0" stroke-width="2"/>
+  <text x="110" y="116" font-family="Times New Roman, serif" font-size="44" fill="#111827">f̂(x₀) = β̂₀, where (β̂₀, β̂₁) = argmin</text>
+  <text x="1040" y="151" font-family="Times New Roman, serif" font-size="28" fill="#111827">β₀, β₁</text>
+  <text x="1132" y="116" font-family="Times New Roman, serif" font-size="44" fill="#111827">{</text>
+  <text x="1190" y="116" font-family="Times New Roman, serif" font-size="54" fill="#111827">∑</text>
+  <text x="1222" y="80" font-family="Times New Roman, serif" font-size="24" fill="#111827">n</text>
+  <text x="1216" y="150" font-family="Times New Roman, serif" font-size="24" fill="#111827">i = 1</text>
+  <text x="1280" y="116" font-family="Times New Roman, serif" font-size="40" fill="#111827">K_λ(xᵢ, x₀) [yᵢ − β₀ − β₁(xᵢ − x₀)]²</text>
+  <text x="1890" y="116" font-family="Times New Roman, serif" font-size="44" fill="#111827">}</text>
+</svg>

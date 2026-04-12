@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="250" viewBox="0 0 1800 250">
+  <rect width="1800" height="250" rx="18" ry="18" fill="#F8FBFE" stroke="#D6E4F0" stroke-width="2"/>
+  <text x="120" y="132" font-family="Times New Roman, serif" font-size="46" fill="#111827">min</text>
+  <text x="188" y="165" font-family="Times New Roman, serif" font-size="30" fill="#111827">f</text>
+  <text x="238" y="132" font-family="Times New Roman, serif" font-size="48" fill="#111827">{</text>
+  <text x="296" y="132" font-family="Times New Roman, serif" font-size="54" fill="#111827">∑</text>
+  <text x="328" y="95" font-family="Times New Roman, serif" font-size="24" fill="#111827">n</text>
+  <text x="322" y="166" font-family="Times New Roman, serif" font-size="24" fill="#111827">i = 1</text>
+  <text x="382" y="132" font-family="Times New Roman, serif" font-size="44" fill="#111827">(yᵢ − f(xᵢ))² + λ ∫ [fʺ(t)]² dt</text>
+  <text x="1228" y="132" font-family="Times New Roman, serif" font-size="48" fill="#111827">}</text>
+</svg>

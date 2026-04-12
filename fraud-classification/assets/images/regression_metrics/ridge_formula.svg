@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="260" viewBox="0 0 1700 260">
+  <rect width="1700" height="260" rx="18" ry="18" fill="#F8FBFE" stroke="#D6E4F0" stroke-width="2"/>
+
+  <text x="120" y="135" font-family="Times New Roman, serif" font-size="48" fill="#111827">min</text>
+  <text x="175" y="168" font-family="Times New Roman, serif" font-size="30" fill="#111827">β₀,...,βₚ</text>
+
+  <text x="300" y="135" font-family="Times New Roman, serif" font-size="48" fill="#111827">{</text>
+
+  <text x="360" y="135" font-family="Times New Roman, serif" font-size="54" fill="#111827">∑</text>
+  <text x="392" y="98" font-family="Times New Roman, serif" font-size="24" fill="#111827">n</text>
+  <text x="386" y="169" font-family="Times New Roman, serif" font-size="24" fill="#111827">i = 1</text>
+
+  <text x="440" y="135" font-family="Times New Roman, serif" font-size="44" fill="#111827">(yᵢ − β₀ − </text>
+
+  <text x="700" y="135" font-family="Times New Roman, serif" font-size="54" fill="#111827">∑</text>
+  <text x="732" y="98" font-family="Times New Roman, serif" font-size="24" fill="#111827">p</text>
+  <text x="726" y="169" font-family="Times New Roman, serif" font-size="24" fill="#111827">j = 1</text>
+
+  <text x="780" y="135" font-family="Times New Roman, serif" font-size="44" fill="#111827">βⱼ xᵢⱼ)² + λ</text>
+
+  <text x="1085" y="135" font-family="Times New Roman, serif" font-size="54" fill="#111827">∑</text>
+  <text x="1117" y="98" font-family="Times New Roman, serif" font-size="24" fill="#111827">p</text>
+  <text x="1111" y="169" font-family="Times New Roman, serif" font-size="24" fill="#111827">j = 1</text>
+
+  <text x="1165" y="135" font-family="Times New Roman, serif" font-size="44" fill="#111827">βⱼ²</text>
+
+  <text x="1270" y="135" font-family="Times New Roman, serif" font-size="48" fill="#111827">}</text>
+</svg>

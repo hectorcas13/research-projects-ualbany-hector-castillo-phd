@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1900" height="240" viewBox="0 0 1900 240">
+  <rect width="1900" height="240" rx="18" ry="18" fill="#F8FBFE" stroke="#D6E4F0" stroke-width="2"/>
+  <text x="120" y="128" font-family="Times New Roman, serif" font-size="44" fill="#111827">f(x) = β₀ + β₁x + ⋯ + β_d xᵈ + </text>
+  <text x="895" y="128" font-family="Times New Roman, serif" font-size="54" fill="#111827">∑</text>
+  <text x="927" y="92" font-family="Times New Roman, serif" font-size="24" fill="#111827">K</text>
+  <text x="921" y="162" font-family="Times New Roman, serif" font-size="24" fill="#111827">k = 1</text>
+  <text x="985" y="128" font-family="Times New Roman, serif" font-size="44" fill="#111827">γ_k (x − ξ_k)₊ᵈ</text>
+</svg>

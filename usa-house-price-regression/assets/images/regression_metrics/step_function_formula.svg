@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180">
+  <rect width="1200" height="180" rx="18" ry="18" fill="#F8FBFE" stroke="#D6E4F0" stroke-width="2"/>
+  <text x="600" y="102" text-anchor="middle" font-family="Times New Roman, serif" font-size="42" fill="#111827">f(x) = beta_0 + SUM_{m=1}^{M} beta_m I(c_m < x <= c_{m+1})</text>
+</svg>

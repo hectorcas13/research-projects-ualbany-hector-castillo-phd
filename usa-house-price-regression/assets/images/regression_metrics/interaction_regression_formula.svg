@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="130" viewBox="0 0 980 130">
+  <rect width="980" height="130" rx="18" fill="#F8FBFE" stroke="#D6E4F0" stroke-width="2"/>
+  <text x="26" y="78" font-family="Times New Roman, serif" font-size="34" fill="#111111">
+    Y = β₀ + β₁X₁ + ... + βₚXₚ + βₚ₊₁(XⱼXₖ) + ε
+  </text>
+</svg>

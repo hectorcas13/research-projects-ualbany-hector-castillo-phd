@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="120" viewBox="0 0 520 120">
+  <rect width="520" height="120" rx="18" fill="#F8FBFE" stroke="#D6E4F0" stroke-width="2"/>
+  <text x="28" y="72" font-family="Times New Roman, serif" font-size="32" fill="#111111">
+    p-value = P(|T| ≥ |t<tspan dy="8" font-size="20">obs</tspan><tspan dy="-8" font-size="32"></tspan>|)
+  </text>
+</svg>
