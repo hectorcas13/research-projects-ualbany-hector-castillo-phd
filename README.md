@@ -1,6 +1,6 @@
 # Research Projects UAlbany - Hector Castillo
 
-This repository contains two R notebook projects developed as part of my PhD-related statistical learning work at the University at Albany, SUNY.
+This repository contains notebook projects developed as part of my PhD-related statistical learning and cybersecurity research work at the University at Albany, SUNY.
 
 ## Projects
 
@@ -44,6 +44,24 @@ It can also be downloaded from Dropbox:
 
 Otherwise, it falls back to the included sample dataset.
 
+### 3. IIoT Intrusion Detection with Tabular Baselines, Graph Analysis, and GNNs
+
+Location: `iiot-intrusion-detection-gnn/`
+
+This project analyzes the CIC IIoT Dataset 2025 using exploratory data analysis, classical classification baselines, graph-analysis designs, and richer graph neural network experiments for benign-vs-attack intrusion detection.
+
+Main notebooks:
+
+- `iiot-intrusion-detection-gnn/notebooks/CIC IIoT dataset 2025_Benign data.ipynb`
+- `iiot-intrusion-detection-gnn/notebooks/CIC IIoT dataset 2025_attack data.ipynb`
+- `iiot-intrusion-detection-gnn/notebooks/Benign vs Attack.ipynb`
+- `iiot-intrusion-detection-gnn/notebooks/Baseline Models and GNN Roadmap.ipynb`
+- `iiot-intrusion-detection-gnn/notebooks/Rich Graph GNN Experiments.ipynb`
+
+Dataset note:
+
+The original CIC IIoT Dataset 2025 files are not stored in this repository. The notebooks use local dataset paths and can be updated to match the user's local data directory.
+
 ## Repository Structure
 
 ```text
@@ -56,6 +74,8 @@ research-projects-ualbany-hector-castillo-phd/
 │   ├── assets/
 │   ├── data/
 │   └── notebooks/
+├── iiot-intrusion-detection-gnn/
+│   └── notebooks/
 └── usa-house-price-regression/
     ├── README.md
     ├── assets/
@@ -66,7 +86,8 @@ research-projects-ualbany-hector-castillo-phd/
 ## Software
 
 - R
-- Jupyter Notebook with an R kernel
+- Python
+- Jupyter Notebook with R and Python kernels
 
 ## Notes
 
